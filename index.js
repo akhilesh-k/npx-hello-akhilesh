@@ -30,6 +30,9 @@ console.log(
   `${timeStamp()} ${BOLD}${GREEN}INFO${RESET} I am writing ${BLUE}Java${RESET} and ${YELLOW}Python${RESET} these days.`
 );
 console.log(
+  `${timeStamp()} ${BOLD}${GREEN}INFO${RESET} Here is my little corner on the Internet ${BLUE}🌐${RESET}: ${UNDERSCORE}https://akhileshk.in/${RESET}`
+);
+console.log(
   `${timeStamp()} ${BOLD}${GREEN}INFO${RESET} ${BOLD}Linkedin:${RESET} ${UNDERSCORE}https://www.linkedin.com/in/akhilesh-k/${RESET}`
 );
 console.log(
